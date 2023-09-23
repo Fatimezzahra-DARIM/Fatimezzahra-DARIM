@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimezzahra-darim&label=Profile%20views&color=0e75b6&style=flat" alt="fatimezzahra-darim" /> </p>
 
-- 🌱 I’m currently learning **Laravel,JavaScripts..**
+- 🌱 I’m currently learning **Java,React**
 
-- 📫 How to reach me **F.DARIM@student.youcode.ma**
+- 📫 How to reach me **fatimezzahradarim@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ I maintain a positive outlook on **my capacity to acquire new knowledge and skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
