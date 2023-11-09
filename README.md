@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimezzahra-darim&label=Profile%20views&color=0e75b6&style=flat" alt="fatimezzahra-darim" /> </p>
 
-- 🌱 I’m currently learning **Java,React**
+- 🌱 I’m currently learning **Java, React, React Native**
 
 - 📫 How to reach me **fatimezzahradarim@gmail.com**
 
